@@ -27,7 +27,6 @@ filetype plugin indent on    " required
 
 " enable statuline 
 :set laststatus=2
-let g:airline_theme='default'
 
 " set colorscheme
 colorscheme gruvbox
